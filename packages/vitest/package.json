@@ -143,11 +143,11 @@
     }
   },
   "dependencies": {
-    "@vitest/expect": "workspace:*",
-    "@vitest/runner": "workspace:*",
-    "@vitest/snapshot": "workspace:*",
-    "@vitest/spy": "workspace:*",
-    "@vitest/utils": "workspace:*",
+    "@vitest/expect": "1.4.0",
+    "@vitest/runner": "1.4.0",
+    "@vitest/snapshot": "1.4.0",
+    "@vitest/spy": "1.4.0",
+    "@vitest/utils": "1.4.0",
     "acorn-walk": "^8.3.2",
     "chai": "^4.3.10",
     "debug": "^4.3.4",
@@ -161,7 +161,7 @@
     "tinybench": "^2.5.1",
     "tinypool": "^0.8.2",
     "vite": "^5.0.0",
-    "vite-node": "workspace:*",
+    "vite-node": "1.4.0",
     "why-is-node-running": "^2.2.2"
   },
   "devDependencies": {
