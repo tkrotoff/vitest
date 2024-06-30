@@ -9,9 +9,9 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.41.0",
-    "@vitest/ui": "latest",
+    "@vitest/ui": "workspace:*",
     "playwright": "^1.41.0",
     "vite": "latest",
-    "vitest": "latest"
+    "vitest": "workspace:*"
   }
 }

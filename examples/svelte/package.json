@@ -10,11 +10,11 @@
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "latest",
     "@testing-library/svelte": "^4.0.3",
-    "@vitest/ui": "latest",
+    "@vitest/ui": "workspace:*",
     "jsdom": "latest",
     "svelte": "latest",
     "vite": "latest",
-    "vitest": "latest"
+    "vitest": "workspace:*"
   },
   "stackblitz": {
     "startCommand": "npm run test:ui"

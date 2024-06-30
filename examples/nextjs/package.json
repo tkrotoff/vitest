@@ -21,6 +21,6 @@
     "@vitejs/plugin-react": "latest",
     "jsdom": "latest",
     "typescript": "^5.2.2",
-    "vitest": "latest"
+    "vitest": "workspace:*"
   }
 }

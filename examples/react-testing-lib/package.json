@@ -22,11 +22,11 @@
     "@types/react-dom": "^18.0.8",
     "@vitejs/plugin-react": "latest",
     "@vitest/coverage-v8": "latest",
-    "@vitest/ui": "latest",
+    "@vitest/ui": "workspace:*",
     "jsdom": "latest",
     "typescript": "^5.2.2",
     "vite": "latest",
-    "vitest": "latest"
+    "vitest": "workspace:*"
   },
   "stackblitz": {
     "startCommand": "npm run test:ui"

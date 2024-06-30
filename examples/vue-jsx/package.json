@@ -12,7 +12,7 @@
     "@vue/test-utils": "latest",
     "jsdom": "latest",
     "vite": "latest",
-    "vitest": "latest",
+    "vitest": "workspace:*",
     "vue": "latest"
   },
   "stackblitz": {

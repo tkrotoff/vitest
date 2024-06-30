@@ -11,11 +11,11 @@
     "@marko/compiler": "latest",
     "@marko/testing-library": "latest",
     "@marko/vite": "latest",
-    "@vitest/ui": "latest",
+    "@vitest/ui": "workspace:*",
     "jsdom": "latest",
     "marko": "latest",
     "vite": "latest",
-    "vitest": "latest"
+    "vitest": "workspace:*"
   },
   "stackblitz": {
     "startCommand": "npm run test:ui"

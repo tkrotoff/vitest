@@ -14,7 +14,7 @@
     "jsdom": "latest",
     "vite": "latest",
     "vite-plugin-ruby": "^3.2.2",
-    "vitest": "latest",
+    "vitest": "workspace:*",
     "vue": "latest"
   },
   "stackblitz": {

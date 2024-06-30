@@ -16,7 +16,7 @@
     "unplugin-auto-import": "^0.16.7",
     "unplugin-vue-components": "latest",
     "vite": "latest",
-    "vitest": "latest"
+    "vitest": "workspace:*"
   },
   "stackblitz": {
     "startCommand": "npm run test"

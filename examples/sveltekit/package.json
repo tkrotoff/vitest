@@ -23,6 +23,6 @@
     "tslib": "^2.5.3",
     "typescript": "^5.2.2",
     "vite": "latest",
-    "vitest": "latest"
+    "vitest": "workspace:*"
   }
 }

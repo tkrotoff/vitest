@@ -21,11 +21,11 @@
     "@types/react": "^18.2.33",
     "@types/react-dom": "^18.2.14",
     "@vitejs/plugin-react": "latest",
-    "@vitest/ui": "latest",
+    "@vitest/ui": "workspace:*",
     "jsdom": "latest",
     "msw": "^2.0.0",
     "vite": "latest",
-    "vitest": "latest"
+    "vitest": "workspace:*"
   },
   "stackblitz": {
     "startCommand": "npm run test:ui"

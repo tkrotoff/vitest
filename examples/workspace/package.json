@@ -9,9 +9,9 @@
     "test:run": "vitest run"
   },
   "devDependencies": {
-    "@vitest/ui": "latest",
+    "@vitest/ui": "workspace:*",
     "vite": "latest",
-    "vitest": "latest"
+    "vitest": "workspace:*"
   },
   "stackblitz": {
     "startCommand": "npm run test:ui"

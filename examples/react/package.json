@@ -14,12 +14,12 @@
     "@types/react": "^17.0.45",
     "@types/react-test-renderer": "^17.0.2",
     "@vitejs/plugin-react": "latest",
-    "@vitest/ui": "latest",
+    "@vitest/ui": "workspace:*",
     "happy-dom": "latest",
     "jsdom": "latest",
     "react-test-renderer": "17.0.2",
     "vite": "latest",
-    "vitest": "latest"
+    "vitest": "workspace:*"
   },
   "stackblitz": {
     "startCommand": "npm run test:ui"

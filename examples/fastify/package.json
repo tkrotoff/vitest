@@ -11,13 +11,13 @@
     "test:run": "vitest run"
   },
   "devDependencies": {
-    "@vitest/ui": "latest",
+    "@vitest/ui": "workspace:*",
     "axios": "^0.26.1",
     "fastify": "4.5.3",
     "supertest": "6.2.4",
     "tsx": "^3.9.0",
     "vite": "latest",
-    "vitest": "latest"
+    "vitest": "workspace:*"
   },
   "stackblitz": {
     "startCommand": "npm run test:ui"

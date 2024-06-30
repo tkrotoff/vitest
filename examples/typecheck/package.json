@@ -11,10 +11,10 @@
   },
   "devDependencies": {
     "@types/node": "^20.11.5",
-    "@vitest/ui": "latest",
+    "@vitest/ui": "workspace:*",
     "typescript": "^5.2.2",
     "vite": "latest",
-    "vitest": "latest"
+    "vitest": "workspace:*"
   },
   "stackblitz": {
     "startCommand": "npm run test:ui"

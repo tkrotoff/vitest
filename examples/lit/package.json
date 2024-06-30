@@ -17,10 +17,10 @@
   },
   "devDependencies": {
     "@vitest/browser": "latest",
-    "@vitest/ui": "latest",
+    "@vitest/ui": "workspace:*",
     "jsdom": "latest",
     "vite": "latest",
-    "vitest": "latest",
+    "vitest": "workspace:*",
     "webdriverio": "^8.32.2"
   },
   "stackblitz": {

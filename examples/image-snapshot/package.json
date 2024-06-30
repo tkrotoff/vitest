@@ -10,10 +10,10 @@
     "test:run": "vitest run"
   },
   "devDependencies": {
-    "@vitest/ui": "latest",
+    "@vitest/ui": "workspace:*",
     "jest-image-snapshot": "^4.5.1",
     "vite": "latest",
-    "vitest": "latest"
+    "vitest": "workspace:*"
   },
   "stackblitz": {
     "startCommand": "npm run test:ui"
